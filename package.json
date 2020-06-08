@@ -1,0 +1,22 @@
+{
+  "name": "street-food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlugat/Street-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlugat/Street-food/issues"
+  },
+  "homepage": "https://github.com/tlugat/Street-food#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
